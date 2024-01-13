@@ -1,0 +1,3 @@
+## Belajar Typescript Dasar
+
+##Penggunaan
